@@ -1,0 +1,50 @@
+/* include your css here */
+
+*{
+	font-family: cursive;
+}
+
+
+#title{
+	font-size: 2em;
+	font-family: cursive;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+
+.Name1{
+
+	display:inline;
+	font-size: 1.1em;
+	float:left;
+	width:300px;
+	margin-left: 50px
+}
+
+.Name2{
+	display:inline;
+	font-size: 1.1em;
+	float:right;
+	width:300px;
+	margin-right: 20px;
+	text-align: right;
+}
+
+.bio_pic{
+	width: 150px;
+	height: 150px;
+}
+
+#body{
+	font-size: 12px;
+	clear: both;
+}
+
+#body h1{
+	font-size: 15px;
+}
+
+#body h3{
+	font-size: 13px;
+}
